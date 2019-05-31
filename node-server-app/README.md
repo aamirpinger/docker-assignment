@@ -29,3 +29,5 @@ Push image to Docker Hub, then go to https://hub.docker.com and verify in you ac
 Remove local image from your system
 
 Then start a new container from your Hub image, and watch how it auto downloads and runs,check again that it works at http://localhost:2000
+
+Don't forget to stop this container when you finish using this app otherwise it will keep on running in the background and consume system resources
